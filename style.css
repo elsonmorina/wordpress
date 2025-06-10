@@ -21,7 +21,7 @@ h1 {
   text-align: center;
   margin-top: 60px;
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
-  animation: fadeInUp 1.2s ease-out;
+  animation: fadeInUp 2s ease-out;
 }
 
 /* Fade-in animation */
