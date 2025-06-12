@@ -12,7 +12,7 @@ Tags:one-column, custom-menu, custom-logo, featured-images
 
 
 */
-h1 {
+/* h1 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 48px;
   background: linear-gradient(90deg, #00c6ff, #0072ff);
@@ -24,8 +24,7 @@ h1 {
   animation: fadeInUp 2s ease-out;
 }
 
-/* Fade-in animation */
-@keyframes fadeInUp {
+ @keyframes fadeInUp {
   0% {
     opacity: 0;
     transform: translateY(30px);
@@ -34,4 +33,4 @@ h1 {
     opacity: 1;
     transform: translateY(0);
   }
-}
+}  */
