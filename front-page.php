@@ -1,4 +1,4 @@
-<?php het_header(); ?>
+<?php get_header(); ?>
 <div id="container">
     <div class="inner_container">
         <div class="imgs_container">
